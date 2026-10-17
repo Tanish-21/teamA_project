@@ -1,0 +1,24 @@
+budget,use_case,priority,ram_gb,storage_gb,battery_mah,camera_mp
+10000,Everyday use,Balanced overall,4,64,5000,13
+15000,Everyday use,Value for money,6,128,5000,50
+20000,Studying,Battery life,6,128,6000,50
+25000,Work,Balanced overall,8,128,5000,50
+30000,Gaming,Performance,8,256,5000,50
+35000,Photography,Camera quality,8,256,5000,64
+40000,Gaming,Performance,12,256,5500,50
+45000,Everyday use,Battery life,8,256,6000,50
+50000,Photography,Camera quality,12,256,5000,108
+55000,Work,Balanced overall,12,256,5000,50
+60000,Gaming,Performance,12,512,5500,50
+65000,Photography,Camera quality,12,512,5000,108
+70000,Studying,Battery life,12,256,6000,50
+75000,Work,Performance,16,512,5000,50
+80000,Gaming,Performance,16,512,5500,50
+12000,Studying,Value for money,4,128,5000,50
+18000,Photography,Camera quality,6,128,5000,50
+28000,Work,Battery life,8,256,6000,50
+38000,Photography,Camera quality,12,256,5000,64
+48000,Gaming,Performance,12,256,5500,50
+58000,Everyday use,Balanced overall,12,256,5000,50
+68000,Gaming,Performance,16,512,5500,50
+78000,Photography,Camera quality,16,512,5000,108
